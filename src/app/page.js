@@ -1,4 +1,3 @@
-
 export default function Home() {
   const lista =[
   {nome: "Leonardo", idade:20, aluno:true},
